@@ -1,4 +1,4 @@
-Hi 🌈 I'm **Diana** (she/her) <br>
+Hi 🌈 I'm **Diana** <br>
 A physical therapist from Brazil, currently pursuing a bachelor's degree in [Computer Science](https://pucpcaldas.br/curso.php?id=55) at PUC Minas
 
 
