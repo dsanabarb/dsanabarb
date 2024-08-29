@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📫 How to reach me **dsanabarb@gmail.com**
+- 📫 You can reach me at **dsanabarb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
