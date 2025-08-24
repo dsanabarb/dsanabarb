@@ -2,11 +2,12 @@ Hi 🌈 I'm **Diana** <br>
 A physical therapist from Brazil, currently pursuing a bachelor's degree in [Computer Science](https://pucpcaldas.br/curso.php?id=55) at PUC Minas
 
 
-- 🌱 I’m currently learning **C** and **Java**
+- 🌱 I’m currently learning **Python**, **C** and **SQL**
 
 - 📫 You can reach me at **dsanabarb@gmail.com**
 
-- 🌟 I aspire to be a **Software Developer**
+- 🌟 Aspirations:
+     🔐 **Cyber security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
