@@ -1,13 +1,12 @@
 Hi 🌈 I'm **Diana** <br>
 A physical therapist from Brazil, currently pursuing a bachelor's degree in [Computer Science](https://pucpcaldas.br/curso.php?id=55) at PUC Minas
 
-
-- 🌱 I’m currently learning **Python**, **C** and **SQL**
+- 🌱 Backend Developer focused on C# · .NET · REST APIs · SQL Server
+- 🖼 Also exploring Frontend with JS, TS & React
+- 👩‍💼 IT Support Analyst
+- 🇬🇧 Cambridge FCE B2 
 
 - 📫 You can reach me at **dsanabarb@gmail.com**
-
-- 🌟 Aspirations:
-     🔐 **Cyber security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
